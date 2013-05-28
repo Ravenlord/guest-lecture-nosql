@@ -1,0 +1,12 @@
+# Definition
+# Historischer Überblick (Warum gibt es diese Systeme überhaupt?)
+
+
+# CAP-Theorem
+# Eventual consistency + BASE + ACID
+- Sharding
+- Map/Reduce
+
+- Vorstellung der unterschiedlichen Ansätze (Wide-column, Dokumentenorientierte DB, etc.)
+- Für was sind die Ansätze gut? Anwendungsfälle
+- Möglicherweise Vorstellung eines konkreten Systems mit Demo
